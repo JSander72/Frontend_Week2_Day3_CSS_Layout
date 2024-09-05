@@ -8,8 +8,6 @@
 
 [W3Schools.com](https://www.w3schools.com/css/css_positioning.asp)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/833abfe9-9ed0-4d7c-9473-f1ece2104e38/2c860678-3315-4312-b8d2-e3b7c39cdd9e/Untitled.png)
-
 ## Introduction
 
 To get a container to use flexbox, you assign it to `display flex`
